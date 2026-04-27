@@ -15,7 +15,7 @@ Technical Description:
 		 |
 		BNode
 		/   \
-	      Book  SplayTree(Words of the Book)
-			|
+	  Book  SplayTree(Words of the Book)
+			    |
 		      Node(individual nodes)
 	
